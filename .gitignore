@@ -1,0 +1,8 @@
+/.vscode
+/bot.py
+/config.env
+/qr_session.session
+/qr_session.session-journal
+/userbot.log
+/venv
+/__pycache__
