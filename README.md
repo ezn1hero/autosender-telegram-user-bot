@@ -24,6 +24,9 @@ Once running, the bot automatically sends messages to your configured chat at re
 
 4. **Install & Run**
 ```bash
+git clone github.com/ezn1hero/autosender-telegram-user-bot.git
+```
+```bash
 pip install -r requirements.txt
 ```
 
