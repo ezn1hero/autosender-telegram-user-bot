@@ -1,5 +1,5 @@
 /.vscode
-/bot.py
+/bott.py
 /config.env
 /qr_session.session
 /qr_session.session-journal
